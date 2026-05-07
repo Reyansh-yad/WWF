@@ -223,8 +223,8 @@ WildLens/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/TeamName_Challenge1.git
-cd TeamName_Challenge1
+git clone https://github.com/Reyansh-yad/
+
 ```
 
 ### 2. Backend Setup
