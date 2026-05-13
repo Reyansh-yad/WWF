@@ -10,7 +10,7 @@
 
 ### *Automated camera trap image classification using computer vision*
 
-**eSewa × WWF Hackathon 2026 · Challenge 1**
+** WWF  2026 **
 
 <br/>
 
@@ -39,7 +39,7 @@
 - [Dataset](#-dataset)
 - [Model Performance](#-model-performance)
 - [API Reference](#-api-reference)
-- [Team](#-team)
+  
 
 ---
 
@@ -387,38 +387,7 @@ file: <image_file>
 
 ---
 
-## 👥 Team
 
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Role</th>
-    <th>Responsibility</th>
-  </tr>
-  <tr>
-    <td><strong>Reyansh [Last Name]</strong></td>
-    <td>ML Engineer / Team Lead</td>
-    <td>YOLOv8 model training, FastAPI backend</td>
-  </tr>
-  <tr>
-    <td><strong>Member 2</strong></td>
-    <td>Frontend Developer</td>
-    <td>React UI, dashboard design</td>
-  </tr>
-  <tr>
-    <td><strong>Member 3</strong></td>
-    <td>Backend Developer</td>
-    <td>API integration, data pipeline</td>
-  </tr>
-  <tr>
-    <td><strong>Member 4</strong></td>
-    <td>Designer / Presenter</td>
-    <td>UI/UX design, pitch deck, demo</td>
-  </tr>
-</table>
-
-**Institution:** Nepal Engineering College, Pokhara University
-**Event:** eSewa × WWF Hackathon 2026 — Challenge 1
 
 ---
 
@@ -433,13 +402,12 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 - [Ultralytics YOLOv8](https://ultralytics.com) — object detection framework
 - [Wildlife Insights](https://wildlife.ai) — dataset and inspiration
 - [Microsoft MegaDetector](https://github.com/microsoft/CameraTraps) — reference implementation
-- [eSewa & WWF Nepal](https://esewa.com.np) — for organizing this challenge
-
+- 
 ---
 
 <div align="center">
 
-**Built with ❤️ for Wildlife Conservation · eSewa × WWF Hackathon 2026**
+**Built with ❤️ for Wildlife Conservation ·**
 
 *"Technology in service of nature"*
 
