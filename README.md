@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/eSewa_×_WWF-Hackathon_2026-2db36f?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/WWF_2026-2db36f?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Challenge-1_Wildlife_AI-39e07a?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-In_Development-f5a623?style=for-the-badge" />
 
